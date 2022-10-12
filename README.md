@@ -17,6 +17,7 @@ This project is featuring a classic Rock-Paper-Scissors game and it is a console
 ## Future features
 
 - UI
+- 2 Player game
 
 ## 🤝 Contributing
 
