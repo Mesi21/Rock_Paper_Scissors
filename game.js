@@ -74,6 +74,7 @@ function game() {
   } else {
     console.log("It\'s a tie!")
   }
+  console.log("Refresh the page for a new game!")
 };
 
 game();
