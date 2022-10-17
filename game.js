@@ -64,7 +64,7 @@ function game() {
       computerWins++;
       playerWins++;
      } 
-    console.log(`This is the number of plays ${i}`)
+    console.log(`This is the ${i+1} round!`)
   }
   console.log(`Results: Computer points: ${computerWins} and your points: ${playerWins}`);
   if (computerWins > playerWins) {
